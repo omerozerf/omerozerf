@@ -11,7 +11,7 @@ I am software engineering student at Maltepe University. I started by learning t
 * 🧠  I'm learning everything
 * 🤝  I'm open to collaborating on open-source projects
 
-### Skills
+### Skills & Learning
 
 
 <p align="left">
