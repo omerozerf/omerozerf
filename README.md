@@ -13,6 +13,7 @@ I am software engineering student at Maltepe University. I started by learning t
 
 <a href="https://www.github.com/omerozerf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omerozerf?logo=github&style=for-the-badge&color=10b981&labelColor=171717" /></a>
+
 ![](https://komarev.com/ghpvc/?username=omerozerf)
 
 ### Skills & Learning
