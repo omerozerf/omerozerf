@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/omerozerf?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/ömer faruk Özer#5122" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/omerozerf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omerozerf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href= "https://omerozerf.itch.io/" target="_blank" rel="noreferrer"><img src="https://www.somosxbox.com/wp-content/uploads/2021/04/itchio-epic-games-somosxbox.jpg" width="32" height="32" /></a></p>
+<a href= "https://omerozerf.itch.io/" target="_blank" rel="noreferrer"><img src="https://nygamecritics.files.wordpress.com/2020/07/itch_io_thumbnail.jpg?w=1024" width="32" height="32" /></a></p>
 
 
 ### Badges
