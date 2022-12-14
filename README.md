@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ömer Faruk
 ==================================================================================================================================
 
-Software Engineering Student
+Jr. Game Development @Volvox Games
 ------------------------------
 
 I am software engineering student at Maltepe University. I started by learning the C programming language in my preparatory class. Now, I am interested in game development and web development.
