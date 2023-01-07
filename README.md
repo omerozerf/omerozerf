@@ -5,7 +5,7 @@ Software Engineering Student
 -----------------------------
 
 I am software engineering student at Maltepe University. I started by learning the C programming language in my preparatory class. Now, I am interested in game development and web development.
-
+ 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [ozeromerfaruk@icloud.com](mailto:ozeromerfaruk@icloud.com)
 * 🧠  I'm learning game & web development
