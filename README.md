@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omer Faruk
 ==================================================================================================================================
 
-Software Engineering Student 
+Software Engineering Student  
 -----------------------------
 
 I am software engineering student at Maltepe University. I started by learning the C programming language in my preparatory class. Now, I am interested in game development and web development.
@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/omerozerf?logo=github&style=for-the
 
 <a href="http://www.github.com/omerozerf"><img src="https://github-readme-stats.vercel.app/api?username=omerozerf&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=10b981&bg_color=171717&hide_border=true&show_icons=true" alt="omerozerf's GitHub stats" /></a>
 
-<a href="http://www.github.com/omerozerf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/omerozerf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
 
 <!--
 <a href="http://www.github.com/omerozerf"><img src="https://activity-graph.herokuapp.com/graph?username=omerozerf&bg_color=171717&color=ffffff&line=10b981&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
