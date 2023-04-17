@@ -8,7 +8,7 @@ I am software engineering student at Maltepe University. I started by learning t
  
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [ozeromerfaruk@icloud.com](mailto:ozeromerfaruk@icloud.com)
-* 🧠  I'm learning game & web development
+* 🧠  I'm learning game development
 * 🤝  I'm open to collaborating on open-source projects
 
 <a href="https://www.github.com/omerozerf" target="_blank" rel="noreferrer"><img
