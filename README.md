@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/omerozerf?logo=github&style=for-the
 
 ![](https://komarev.com/ghpvc/?username=omerozerf)
 
-### Skills & Learning
+### Skills & Learning 
 
 
 <p align="left">
