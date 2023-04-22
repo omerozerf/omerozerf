@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>- - 🔭 I’m currently working at [Volvox Games](https://www.linkedin.com/company/volvox-games/)
+<p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>
+  
+- 🔭 I’m currently working at [Volvox Games](https://www.linkedin.com/company/volvox-games/)
 
 - 🌱 I’m currently learning **game development**
 
