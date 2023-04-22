@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **everything 🤓**
 
-- 📫 How to reach me [iCloud](ozeromerfaruk@icloud.com) <p/>
+- 📫 How to reach me ozeromerfaruk@icloud.com <p/>
 
 - 🎮 How to play my game [itch.io](https://omerozerf.itch.io/)
 
