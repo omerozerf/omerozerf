@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>- - 🔭 I’m currently working at [Volvox Games](https://www.linkedin.com/company/volvox-games/)
+
+- 🌱 I’m currently learning **game development**
+
+- 💬 Ask me about **everything 🤓**
+
+- 📫 How to reach me **ozeromerfaruk@icloud.com**</p>
 
 ###
 
