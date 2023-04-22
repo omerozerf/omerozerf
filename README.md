@@ -65,6 +65,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/misme597a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misme597a" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
@@ -77,14 +85,6 @@
   <img src="https://streak-stats.demolab.com?user=omerozerf&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=omerozerf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerozerf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&&hide=shaderlab,hlsl&langs,hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/misme597a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=misme597a" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
