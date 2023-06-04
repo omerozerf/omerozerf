@@ -72,6 +72,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=misme597a" alt="Spotify recently played"  />
   </a>
 </div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation" />
