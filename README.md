@@ -42,7 +42,7 @@
 
 - 📫 How to reach me ozeromerfaruk@icloud.com <p/>
 
-- 🎮 How to play my game [itch.io](https://omerozerf.itch.io/)
+- 🎮 How to play my game -> [itch.io](https://omerozerf.itch.io/)
 
 ###
 
