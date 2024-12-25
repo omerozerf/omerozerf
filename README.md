@@ -37,9 +37,11 @@
 
 <p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>
   
+- 🌍 My website -> https://omerozerf.notion.site/omerfarukozer-portfolio
+
 - 🔭 I’m currently working at [Volvox Games](https://www.linkedin.com/company/volvox-games/)
 
-- 🌱 I’m currently learning **game development**
+- 🌱 I’m currently working **game development**
 
 - 💬 Ask me about **everything 🤓**
 
