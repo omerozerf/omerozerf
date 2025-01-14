@@ -79,7 +79,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
- ![omerozerf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&theme=dark&hide_border=true)
+ ![omerozerf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&theme=dark&hide_border=true&mode=weekly)
  
  ![omerozerf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerozerf&theme=dark&show_icons=true&hide_border=true&layout=compact)
  
