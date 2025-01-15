@@ -83,5 +83,6 @@
  
  ![omerozerf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerozerf&theme=dark&show_icons=true&hide_border=true&layout=compact)
  
- ![omerozerf's Stats](https://github-readme-stats.vercel.app/api?username=omerozerf&theme=dark&show_icons=true&hide_border=true&count_private=true)
+ ![omerozerf's Stats](https://github-readme-stats.vercel.app/api?username=omerozerf&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 ###
