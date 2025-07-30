@@ -39,15 +39,11 @@
   
 - 🌍 My website -> https://omerozerf.notion.site/omerfarukozer-portfolio
 
-- 🔭 I’m currently working at [Volvox Games](https://www.linkedin.com/company/volvox-games/)
-
-- 🌱 I’m currently working **game development**
-
 - 💬 Ask me about **everything 🤓**
 
 - 📫 How to reach me ozeromerfaruk@icloud.com <p/>
 
-- 🎮 How to play my game -> [itch.io](https://omerozerf.itch.io/)
+- 🎮 How to play my projects -> [itch.io](https://omerozerf.itch.io/)
 
 ###
 
