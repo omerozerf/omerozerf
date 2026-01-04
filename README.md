@@ -84,10 +84,14 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
- ![omerozerf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&theme=dark&hide_border=true&mode=weekly)
- 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerozerf&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak (weekly)"/>
+</div>
+ <!--
+
  ![omerozerf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerozerf&theme=dark&show_icons=true&hide_border=true&layout=compact)
  
  ![omerozerf's Stats](https://github-readme-stats.vercel.app/api?username=omerozerf&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+-->
 
 ###
