@@ -35,13 +35,13 @@
 
 ###
 
-<p align="left">I'm Omer Faruk from Istanbul, Turkey<br><br>
+<p align="left">I'm Omer Faruk from Ankara, Turkey<br><br>
   
 - 🌍 My website -> https://omerozerf.notion.site/omerfarukozer-portfolio
 
 - 💬 Ask me about **everything 🤓**
 
-- 📫 How to reach me ozeromerfaruk@icloud.com <p/>
+- 📫 How to reach me ozeromerfaruk@gmail.com <p/>
 
 - 🎮 How to play my projects -> [itch.io](https://omerozerf.itch.io/)
 
